@@ -1,0 +1,1 @@
+This is my first opengl program that renders a triangle. Program is completely copied from the tutorial here: https://learnopengl.com/Getting-started/Hello-Triangle, because I'm just starting to learn.
